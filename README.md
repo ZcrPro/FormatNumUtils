@@ -8,4 +8,4 @@
   - 身份证号：xxxxxx xxxx xxxx xxxx
   - 银行卡号：xxxx xxxx xxxx xxxx
 
-![QQ20171228-0](/Users/zcrpro/Desktop/QQ20171228-0.png)
+![演示](https://github.com/ZcrPro/FormatNumUtils/blob/master/QQ20171228-0.png)
